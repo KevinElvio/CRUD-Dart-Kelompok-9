@@ -16,7 +16,6 @@ void main() {
     print("3. Update Data Mahasiswa");
     print("4. Delete Data Mahasiswa");
     print("5. Exit");
-    print(mahasiswaFunc.list_mahasiswa);
     print("==============================================");
     stdout.write('Masukan pilihan anda: ');
     var inputan = stdin.readLineSync();
